@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Medical Records Access Control using Blockchain
 
 Patients own their records, doctors get time-limited access, and every grant, revoke and read is logged on-chain.
@@ -81,3 +82,6 @@ Suggested statement for the report: a production system would likely use a permi
 - On-chain data is public on Ethereum, which is why only hashes and permissions are stored.
 - Registered doctors are approved by a single admin address.
 - Medical data is sensitive; real deployments must follow healthcare privacy law.
+=======
+# blockchain-project
+>>>>>>> c83843f1f637139e953987d6a91def47b4ea21b7
